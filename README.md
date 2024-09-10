@@ -38,10 +38,11 @@ Bot Telegram ini dirancang untuk mengirim pesan otomatis ke berbagai grup dengan
 1. Clone repository ini
 2. Install dependensi dengan `pip install -r requirements.txt`
 3. Buat file `.env` di folder `data/` dan isi dengan kredensial Anda:
-
+```
 TELEGRAM_API_ID=your_api_id
 TELEGRAM_API_HASH=your_api_hash
 PHONE_NUMBER=your_phone_number
+```
 
 4. Jalankan bot dengan perintah `python bot.py`
 
