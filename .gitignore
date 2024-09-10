@@ -1,0 +1,60 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# Session files
+session/
+
+# Environment variables
+.env
+
+# Persistent data
+data/persistent_data.json
+data/persistent_data.json.backup
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Sensitive or personal files
+config.ini
+secrets.json
+
+# Compiled Python files
+*.pyc
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg

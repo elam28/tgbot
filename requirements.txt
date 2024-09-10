@@ -1,0 +1,7 @@
+telethon
+python-dotenv
+apscheduler
+aiohttp
+psutil
+colorlog
+python-json-logger
